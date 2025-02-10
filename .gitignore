@@ -1,0 +1,24 @@
+# Go specific
+*.out
+*.exe
+*.test
+*.prof
+*.log
+*.cover
+vendor/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Go Modules
+go.sum
+go.mod
+
+# Build directory
+bin/
